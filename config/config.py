@@ -1,5 +1,5 @@
 #config/config.py
-PGSQL_TEST_DATABASE_STRING = "host=127.0.0.1 dbname=testdb user=prostgres password=1234 port=5432"
+PGSQL_TEST_DATABASE_STRING = "host=127.0.0.1 dbname=testdb user=postgres password=1234 port=5432"
 
 # connection pool (일정 수의 연결을 만들어 두고 재사용)
 PGSQL_TEST_POLL_MIN_SIZE = 10 # 커넥션 풀에서 유지할 최소 연결수
