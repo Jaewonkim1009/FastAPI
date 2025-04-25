@@ -1,3 +1,10 @@
+# pip freeze > requirements.txt
+# 설치된 패키지 목록과 버전 정보를 파일로 저장
+
+# type requiements.txt
+# 저장 된 항목들 확인
+
+
 annotated-types @ file:///C:/b/abs_0dmaoyhhj3/croot/annotated-types_1709542968311/work
 anyio @ file:///C:/b/abs_5c8w79vk0u/croot/anyio_1745334672105/work
 click @ file:///C:/b/abs_42rbjngfys/croot/click_1744271606983/work
